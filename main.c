@@ -7,7 +7,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <ctype.h>
-#include <locale.h>
 
 // Declaração das duas funções
 void dataHora();
