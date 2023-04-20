@@ -1,0 +1,80 @@
+______________________________
+Data da Medicao: 19/04/2023
+Hora da Medicao: 16:18:58
+
+ALERTA AMARELO
+Precipitacao: 20.0mm
+Umidade do ar: 81%
+Temperatura do ar: 25.0ø
+
+Velocidade do ar: 40 km/h
+Direcao do vento: Noroeste
+______________________________
+Data da Medicao: 19/04/2023
+Hora da Medicao: 16:19:58
+
+______________________________
+Data da Medicao: 19/04/2023
+Hora da Medicao: 16:23:36
+
+ALERTA AMARELO
+Precipitacao: 20.0mm
+Umidade do ar: 81%
+Temperatura do ar: 25.0ø
+
+Velocidade do ar: 40 km/h
+Direcao do vento: Noroeste
+______________________________
+Data da Medicao: 19/04/2023
+Hora da Medicao: 16:26:03
+
+______________________________
+Data da Medicao: 19/04/2023
+Hora da Medicao: 16:27:02
+
+ALERTA AMARELO
+Precipitacao: 20.0mm
+Umidade do ar: 81%
+Temperatura do ar: 25.0øC
+Velocidade do ar: 40 km/h
+Direcao do vento: Noroeste
+______________________________
+Data da Medicao: 19/04/2023
+Hora da Medicao: 22:09:25
+
+Precipitacao: 10.0mm
+Umidade do ar: 60%
+Temperatura do ar: 20.0ø
+
+Velocidade do ar: 30 km/h
+Direcao do vento: Norte
+______________________________
+Data da Medicao: 19/04/2023
+Hora da Medicao: 22:11:17
+
+ALERTA AMARELO
+Precipitacao: 20.0mm
+Umidade do ar: 80%
+Temperatura do ar: 25.0øC
+Velocidade do ar: 40 km/h
+Direcao do vento: Norte
+______________________________
+Data da Medicao: 19/04/2023
+Hora da Medicao: 22:23:10
+
+ALERTA AMARELO
+Precipitacao: 20.0mm
+Umidade do ar: 80%
+Temperatura do ar: 25.0øC
+Velocidade do ar: 40 km/h
+Direcao do vento: Norte
+______________________________
+Data da Medicao: 19/04/2023
+Hora da Medicao: 22:27:50
+
+ALERTA AMARELO
+Precipitacao: 30.0mm
+Umidade do ar: 80%
+Temperatura do ar: 25.0øC
+Velocidade do ar: 50 km/h
+Direcao do vento: Norte
