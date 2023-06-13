@@ -1,6 +1,7 @@
 # controle-meteorologico
 
 Autor: Bernardo de Brito Cruz
+
 Perfil Completo no GitHub: https://github.com/bernardo-04
 
 Programa desenvolvido em C que realiza as seguintes funções:
